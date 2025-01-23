@@ -1,7 +1,6 @@
 import 'package:car_app/core/extensions/context_extension.dart';
 import 'package:car_app/core/extensions/list_extension.dart';
 import 'package:car_app/features/auth/screens/sign_in/sign_in_screen.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:car_app/core/extensions/int_extension.dart';
 import 'package:car_app/core/extensions/textstyle_extension.dart';
