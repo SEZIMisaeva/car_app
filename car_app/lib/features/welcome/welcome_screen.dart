@@ -1,7 +1,7 @@
 import 'package:car_app/core/resource/app_assets.dart';
 import 'package:car_app/core/thema/app_colors.dart';
-import 'package:car_app/features/auth/screens/sign_in_buttom.dart';
-import 'package:car_app/features/auth/screens/sign_in_screen.dart';
+import 'package:car_app/features/auth/screens/auth_button.dart';
+import 'package:car_app/features/auth/screens/sign_in/sign_in_screen.dart';
 import 'package:flutter/material.dart';
 
 class WelcomeScreen extends StatelessWidget {

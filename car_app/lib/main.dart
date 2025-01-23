@@ -1,5 +1,5 @@
 
-import 'package:car_app/features/auth/screens/sign_in_screen.dart';
+import 'package:car_app/features/auth/screens/sign_in/sign_in_screen.dart';
 import 'package:car_app/features/welcome/welcome_screen.dart';
 import 'package:car_app/features/welcome/welcome_screen.dart';
 
