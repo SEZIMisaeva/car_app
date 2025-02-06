@@ -47,9 +47,9 @@ class WelcomeScreen extends StatelessWidget {
                   backgroundColor: const Color(0xffC64949),
                   padding: EdgeInsets.symmetric(vertical: 20, horizontal: 55),
                 ),
-                child: Row(
+                child:  const Row(
                   mainAxisSize: MainAxisSize.min,
-                      children:  [const Text('Get Started',style: TextStyle(fontSize: 20, color: Colors.white,
+                      children:  [ Text('Get Started',style: TextStyle(fontSize: 20, color: Colors.white,
                       ),
                       ),
                       Icon(Icons.navigate_next, size: 50.0, color: Colors.white,),

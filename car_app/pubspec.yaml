@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.8
   shared_preferences: ^2.3.5
   fluttertoast: ^8.2.10
+  provider: ^6.1.2
+  flutter_svg: ^2.0.17
+  cached_network_image: ^3.4.1
   
 
 dev_dependencies:
@@ -67,6 +70,7 @@ flutter:
     - assets/welcome_logo.png
     - assets/facebook.png
     - assets/chrome.png
+    - assets/svg/drawer_icon.svg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
